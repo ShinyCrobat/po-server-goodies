@@ -786,6 +786,7 @@ var commands = {
         "/deowner [name]: Removes owner status from a user.",
     ],
     mod:
+    Hi Zorodark!
     [
         "/k [name]: Kicks someone.",
         "/mute [name]:[reason]:[time]: Mutes someone. Time is optional and defaults to 1 day.",
